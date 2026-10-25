@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="820" fill="#ffffff"/>
+  <text x="500" y="40" text-anchor="middle" font-size="22" font-weight="bold" fill="#222">Wo steht Alpha? Bestehende Projekte im Vergleich (Stand Okt. 2026)</text>
+  <text x="500" y="64" text-anchor="middle" font-size="13" fill="#666">Drei Kriterien der Vision: offen &amp; kostenlos · adaptiv &amp; förderdiagnostisch · kindgerechte Übungs-App</text>
+
+  <!-- circles -->
+  <circle cx="500" cy="300" r="230" fill="#4C8BF5" fill-opacity="0.18" stroke="#2F6BD8" stroke-width="2"/>
+  <circle cx="365" cy="520" r="230" fill="#F5A623" fill-opacity="0.18" stroke="#D98A0C" stroke-width="2"/>
+  <circle cx="635" cy="520" r="230" fill="#3DBE7A" fill-opacity="0.18" stroke="#249A5C" stroke-width="2"/>
+
+  <!-- circle labels -->
+  <text x="500" y="100" text-anchor="middle" font-size="16" font-weight="bold" fill="#2F6BD8">OFFEN &amp; KOSTENLOS</text>
+  <text x="500" y="118" text-anchor="middle" font-size="11" fill="#2F6BD8">Quellcode frei, Inhalte OER, keine Jahreslizenz</text>
+  <text x="170" y="740" text-anchor="middle" font-size="16" font-weight="bold" fill="#D98A0C">ADAPTIV &amp;</text>
+  <text x="170" y="758" text-anchor="middle" font-size="16" font-weight="bold" fill="#D98A0C">FÖRDERDIAGNOSTISCH</text>
+  <text x="170" y="776" text-anchor="middle" font-size="11" fill="#D98A0C">Diagnose, Stufen, Anpassung, Fallbacks</text>
+  <text x="830" y="740" text-anchor="middle" font-size="16" font-weight="bold" fill="#249A5C">KINDGERECHTE</text>
+  <text x="830" y="758" text-anchor="middle" font-size="16" font-weight="bold" fill="#249A5C">ÜBUNGS-APP</text>
+  <text x="830" y="776" text-anchor="middle" font-size="11" fill="#249A5C">flüssig, Audio zuerst, für Förderkinder bedienbar</text>
+
+  <!-- A only -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="500" y="170" font-weight="bold">Serlo</text>
+    <text x="500" y="188">Kolibri</text>
+    <text x="500" y="206">H5P / Lumi</text>
+    <text x="500" y="224">dBildungscloud</text>
+    <text x="500" y="246" font-size="11" fill="#555">LearningApps (kostenlos,</text>
+    <text x="500" y="260" font-size="11" fill="#555">aber nicht offen)</text>
+  </g>
+
+  <!-- A∩B: Levumi -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="365" y="385" font-weight="bold">Levumi</text>
+    <text x="365" y="401" font-size="11" fill="#555">Diagnostik als OER,</text>
+    <text x="365" y="414" font-size="11" fill="#555">Code auf GitHub,</text>
+    <text x="365" y="427" font-size="11" fill="#555">keine Kinder-App</text>
+  </g>
+
+  <!-- A∩C: GCompris -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="635" y="385" font-weight="bold">GCompris</text>
+    <text x="635" y="401" font-size="11" fill="#555">offen, lokal, kindgerecht,</text>
+    <text x="635" y="414" font-size="11" fill="#555">aber nicht adaptiv,</text>
+    <text x="635" y="427" font-size="11" fill="#555">kein DaZ</text>
+  </g>
+
+  <!-- B only -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="245" y="560" font-weight="bold">quop</text>
+    <text x="245" y="578">Lernserver</text>
+    <text x="245" y="596">ILeA plus</text>
+    <text x="245" y="614">Westermann</text>
+    <text x="245" y="630">Onlinediagnose</text>
+  </g>
+
+  <!-- C only -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="755" y="545" font-weight="bold">ANTON</text>
+    <text x="755" y="563">Oriolus</text>
+    <text x="755" y="581">Lernwerkstatt</text>
+    <text x="755" y="599">Leseludi u. a.</text>
+    <text x="755" y="617">Khan Kids</text>
+    <text x="755" y="635">Duolingo ABC</text>
+  </g>
+
+  <!-- B∩C -->
+  <g font-size="13" fill="#222" text-anchor="middle">
+    <text x="500" y="610" font-weight="bold">Meister Cody / Namagi</text>
+    <text x="500" y="628">bettermarks (nur Mathe)</text>
+    <text x="500" y="646">ANTON Komplett</text>
+    <text x="500" y="660" font-size="11" fill="#555">ab 2026/27, 6 €/Kind/Jahr</text>
+    <text x="500" y="680" font-size="11" fill="#a33">alle mit zentralen Schülerkonten</text>
+  </g>
+
+  <!-- center: empty -->
+  <g text-anchor="middle">
+    <circle cx="500" cy="470" r="62" fill="#fff" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="500" y="458" font-size="12" font-weight="bold" fill="#c0392b">LEER</text>
+    <text x="500" y="476" font-size="11" fill="#c0392b">hier steht noch</text>
+    <text x="500" y="490" font-size="11" fill="#c0392b">niemand</text>
+    <text x="500" y="510" font-size="12" font-weight="bold" fill="#222">→ Alpha</text>
+  </g>
+
+  <!-- footnote -->
+  <text x="500" y="805" text-anchor="middle" font-size="11" fill="#666">Vierte Dimension „lokal, ohne Konto, ohne Server“: erfüllen nur GCompris, Oriolus und Lernwerkstatt. Kein adaptives System erfüllt sie.</text>
+</svg>
