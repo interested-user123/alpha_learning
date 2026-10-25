@@ -74,11 +74,11 @@ Items 4 bis 9 folgen demselben Muster. Nach Item 9 hat Amir sechs von neun richt
 - Wiederholt daneben getippt bei Drag-Aufgaben (Ziel knapp verfehlt): Motorik-Hinweis, Aufgabentyp wechselt auf große Tipp-Flächen. Nach drei Sitzungen mit diesem Muster: Vorschlag "Motorik-Baustein" an die Lehrkraft.
 - Sprach-Items ohne erkennbare Antwort (wenn Spracheingabe aktiv): zwei Versuche, dann Bildauswahl als Ersatz. Kein Fehler für das Kind, Markierung für die Lehrkraft.
 
-### Block C: Anker-Probe (nur montags, 1 Minute)
+### Block C: Messprobe, "Lese-Minute" (nur montags, 1 Minute)
 Heute ist Dienstag, Block C entfällt. Am Montag sah er so aus:
 - "Lese-Minute": Eine Liste von Wörtern erscheint, Amir liest so viele wie möglich in 60 Sekunden laut vor (Lehrkraft hört zu und tippt Fehler, oder Spracherkennung zählt, wenn aktiv), oder im Stillmodus: Wort-Bild-Zuordnung so viele wie möglich in 60 Sekunden.
 - Die Wortliste ist eine von zwölf geprüften **Parallelformen gleicher Schwierigkeit**. Keine Hilfe, kein Audio, keine Anpassung. Ergebnis: 23 richtige Wörter.
-- Dieses Ergebnis geht nicht in den Elo-Wert, sondern in die **Ankerkurve** für die Lehrkraft. Es ist der standardisierte Messpunkt, mit dem die Elo-Schätzung kalibriert und gegen Drift geprüft wird.
+- Dieses Ergebnis geht nicht in den Elo-Wert, sondern in die **Messkurve** für die Lehrkraft. Es ist der standardisierte Messpunkt, mit dem die Elo-Schätzung kalibriert und gegen Drift geprüft wird.
 - Für Amir ist es eine ruhige Minute mit anschließend einem Stern, nicht mehr. Kein Vergleich mit anderen, keine Zahl.
 
 Warum nicht jeden Tag: weil Parallelformen knapp sind (zwölf im Jahr reichen für wöchentlich) und weil die tägliche Elo-Messung die Entwicklung schon abbildet. Die Ankerprobe ist die Kontrolle, nicht die Hauptmessung. Wenn sich nach einem Jahr Daten zeigt, dass Elo und Anker übereinstimmen, kann der Anker seltener werden.
